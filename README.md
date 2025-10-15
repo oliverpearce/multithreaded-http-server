@@ -1,6 +1,6 @@
-# Assignment 4 directory
+# multithreaded http server
 
-This directory contains source code and other files for Assignment 4.
+my implementation of a multithreaded http server in c! 
 
 ## Files
 * README.md
